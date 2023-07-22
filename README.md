@@ -16,3 +16,4 @@ https://douglashf94.github.io/my-portfolio/
 - Flexbox
 - DOM manipulation
 - Events
+- CSS Media Query

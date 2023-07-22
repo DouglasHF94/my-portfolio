@@ -89,6 +89,7 @@
 
   .hero-info-image {
     width: 390px;
+    margin: auto;
   }
 
   .section-abilities {
