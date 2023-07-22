@@ -9,7 +9,7 @@ The main goal is create a website with my professional information.
 
 ## Live link:
 
-https://gabrielrangel95.github.io/site-portfolio/
+https://douglashf94.github.io/my-portfolio/
 
 ## Main concepts applied
 
