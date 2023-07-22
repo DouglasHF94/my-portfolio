@@ -5,11 +5,11 @@ The main goal is create a website with my professional information.
 
 ## Preview
 
-<img src="https://github.com/gabrielrangel95/site-portfolio/blob/main/preview.png" height="500"/>
+<img src="https://github.com/DouglasHF94/my-portfolio/blob/main/preview.png" height="500"/>
 
 ## Live link:
 
-https://gabrielrangel95.github.io/site-portfolio/
+https://douglashf94.github.io/my-portfolio/
 
 ## Main concepts applied
 
